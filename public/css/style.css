@@ -1,0 +1,113 @@
+#container {
+    margin: 5% 1% 1% 1%;
+    padding: 1% 1% 1% 1%;
+}
+
+body {
+    height: 1000px;
+    width: 900px;
+    margin: 0 auto;
+    background-image: url(https://i.imgur.com/dqRZcte.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding-bottom: 30px;
+}
+
+#Rules {
+    margin: 5%;
+    text-align: center;
+}
+
+.playerprogress {
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+#playerturn {
+    margin: 0 auto;
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+ol {
+    padding: 0px
+}
+
+.question p {
+    margin: 9% auto;
+}
+
+.question h2 {
+    margin: 20% auto;
+}
+
+.question {
+    border: 2px solid;
+    border-style: groove;
+    border-radius: 50%;
+    margin: 4px auto;
+    display: none;
+    width: 450px;
+    height: 375px;
+}
+
+.start {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.shown {
+    display: block;
+}
+
+.six {
+    text-align: center;
+}
+
+.ta {
+    margin-bottom: 10px;
+}
+
+li div {
+    border: 1px solid;
+    margin: 3px auto;
+    ;
+    width: 25%;
+    height: 25%;
+    border-radius: 10px;
+    background-color: grey;
+    padding: 0 auto;
+}
+
+.p1 {
+    float: left;
+    display: inline-block;
+}
+
+aside {
+    float: right;
+    display: inline-block;
+}
+
+span {
+    color: black;
+}
+
+audio {
+    margin-left: 25px;
+}
